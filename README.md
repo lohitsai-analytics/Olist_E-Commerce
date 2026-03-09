@@ -4,7 +4,7 @@ An end-to-end **Power BI Business Intelligence project** built using the Brazili
 The dashboard analyzes **revenue performance, logistics efficiency, customer behavior, and seller contribution** to provide actionable business insights.
 __________________________
 🔗 Live Dashboard
-[https://app.powerbi.com/view?r=XXXX](https://app.powerbi.com/view?r=eyJrIjoiMjIyYWM1MzYtY2I5MC00ODUyLWE5NjgtYTg2NzI2MjYzNzkxIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9)
+(https://app.powerbi.com/view?r=eyJrIjoiMjIyYWM1MzYtY2I5MC00ODUyLWE5NjgtYTg2NzI2MjYzNzkxIiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9)
 
 ---
 
