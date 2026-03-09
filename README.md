@@ -90,7 +90,7 @@ Features:
 • Seller performance analysis  
 • Revenue contribution by sellers  
 
-![Growth](images/4_Growth_Intelligence.png)
+![Growth](images/Growth_Intelligence.png)
 
 ---
 
