@@ -2,6 +2,7 @@
 
 An end-to-end **Power BI Business Intelligence project** built using the Brazilian Olist e-commerce dataset.  
 The dashboard analyzes **revenue performance, logistics efficiency, customer behavior, and seller contribution** to provide actionable business insights.
+__________________________
 🔗 Live Dashboard
 [https://app.powerbi.com/view?r=XXXX](https://app.powerbi.com/view?r=eyJrIjoiZDYyZDY1YTQtYzU2NS00ZDcxLWFkMDEtYjk3OTBlZGI2ZGU1IiwidCI6IjE4MGU0OTAxLWVkZjktNDdhMC05NzU2LTA1OWJlMmZiMWNjMSJ9&embedImagePlaceholder=true)
 
